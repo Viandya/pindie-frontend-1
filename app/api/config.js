@@ -1,4 +1,4 @@
-export const BASE_URL = 'https://vladst-frontend.nomoredomainswork.ru/api'
+export const BASE_URL = 'https://vladst-frontend.nomoredomainswork.ru'
 
 export const endpoints = {
   games: `${BASE_URL}/games`,
